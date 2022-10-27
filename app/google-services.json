@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "99242643957",
+    "project_id": "pkart-30945",
+    "storage_bucket": "pkart-30945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99242643957:android:f663396c56fdab269b90bc",
+        "android_client_info": {
+          "package_name": "com.ibrahimmakashi.pkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99242643957-2jrecn8obcc320q5206kkqb5c2eda3km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRaW7Lxv1D41FCFWb9_L-xnBlvvvAm8Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99242643957-2jrecn8obcc320q5206kkqb5c2eda3km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99242643957:android:67085d64be677f459b90bc",
+        "android_client_info": {
+          "package_name": "com.ibrahimmakashi.pkartadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99242643957-2jrecn8obcc320q5206kkqb5c2eda3km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRaW7Lxv1D41FCFWb9_L-xnBlvvvAm8Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99242643957-2jrecn8obcc320q5206kkqb5c2eda3km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
